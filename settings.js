@@ -25,11 +25,11 @@ global.ownerNumberr = "6285822347348"
 global.ownerbot = ['6285822347348','918156874290@s.whatsapp.net'] // .owner
 global.ownername = "ᴹᴿ᭄ Arull ×፝֟͜×"
 global.botname = "ArullBotz"
-global.thumb = "thumbnail_1.jpg"
-global.thumbnail ="thumbnail_2_1.jpg"
-global.fakethumb ="thumbnail_1.jpg"
-global.donasi ="donasi.jpg"
-global.captionpay ="Jangan scan karna scanny tidak berlaku"
+global.thumb = "hiruko.jpg"
+global.thumbnail ="hiruko.jpg"
+global.fakethumb ="hiruko.jpg"
+global.donasi ="hiruko.jpg"
+global.captionpay ="kalo mau donasi chat gw(owner)"
 global.fake = "「  ArullBotz  」\nCreated By ᴹᴿ᭄ Arull ×፝֟͜×"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
